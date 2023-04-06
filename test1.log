@@ -1,0 +1,42 @@
+2023-02-23 16:56:16,268 This is my info logging
+2023-02-23 16:56:16,269 This is my error msg
+2023-02-23 16:56:16,269 This is critical log
+2023-02-23 17:01:17,902 pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-02-23 17:01:17,949 pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-02-23 17:01:19,594 diff parser start
+2023-02-23 17:01:19,595 line_lengths old: 1; new: 1
+2023-02-23 17:01:19,595 -> code[replace] old[1:1] new[1:1]
+2023-02-23 17:01:19,596 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-23 17:01:19,596 diff parser end
+2023-02-23 17:01:19,615 pickle loaded: /opt/conda/lib/python3.10/logging/__init__.py
+2023-02-23 17:01:39,713 diff parser start
+2023-02-23 17:01:39,714 line_lengths old: 1; new: 1
+2023-02-23 17:01:39,714 -> code[replace] old[1:1] new[1:1]
+2023-02-23 17:01:39,714 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-23 17:01:39,714 diff parser end
+2023-02-23 17:01:41,976 diff parser start
+2023-02-23 17:01:41,976 line_lengths old: 1; new: 1
+2023-02-23 17:01:41,977 -> code[replace] old[1:1] new[1:1]
+2023-02-23 17:01:41,977 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-23 17:01:41,977 diff parser end
+2023-02-23 17:02:02,534 diff parser start
+2023-02-23 17:02:02,534 line_lengths old: 1; new: 1
+2023-02-23 17:02:02,535 -> code[replace] old[1:1] new[1:1]
+2023-02-23 17:02:02,535 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-23 17:02:02,535 diff parser end
+2023-02-23 17:02:04,694 diff parser start
+2023-02-23 17:02:04,694 line_lengths old: 1; new: 1
+2023-02-23 17:02:04,695 -> code[replace] old[1:1] new[1:1]
+2023-02-23 17:02:04,695 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-23 17:02:04,695 diff parser end
+2023-02-23 17:03:49,557 This is my info logging
+2023-02-23 17:03:49,557 This is my error msg
+2023-02-23 17:03:49,557 This is critical log
+2023-02-23 17:04:17,484 diff parser start
+2023-02-23 17:04:17,484 line_lengths old: 1; new: 1
+2023-02-23 17:04:17,484 -> code[replace] old[1:1] new[1:1]
+2023-02-23 17:04:17,485 parse_part from 1 to 1 (to 0 in part parser)
+2023-02-23 17:04:17,485 diff parser end
+2023-02-23 17:04:21,475 This is my info logging
+2023-02-23 17:04:21,475 This is my error msg
+2023-02-23 17:04:21,476 This is critical log
