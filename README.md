@@ -1,4 +1,4 @@
-# Logging_-_Exception-Handling-Python
+# Logging_And_Exception-Handling-Python
 
 # Logging in Python
 
