@@ -1,22 +1,22 @@
 # Logging_-_Exception-Handling-Python
 
-#Logging in Python
+# Logging in Python
 
 The logging module in Python provides a powerful and flexible way to record events and messages from a running application. It allows developers to fine-tune the amount of detail recorded by the logging system by defining different levels of severity or importance.
 
 The levels of logging in Python, in increasing order of severity, are:
 
-1. NOTSET: The lowest possible level, used to indicate that no logging is done.
+> NOTSET: The lowest possible level, used to indicate that no logging is done.
 
-2. DEBUG: Detailed information, typically of interest only when diagnosing problems.
+> DEBUG: Detailed information, typically of interest only when diagnosing problems.
 
-3. INFO: General information about the application's operation, such as startup messages and status updates.
+> INFO: General information about the application's operation, such as startup messages and status updates.
 
-4. WARNING: An indication that something unexpected happened or indicative of some problem in the near future (e.g., 'disk space low').
+> WARNING: An indication that something unexpected happened or indicative of some problem in the near future (e.g., 'disk space low').
 
-5. ERROR: An error occurred that should be investigated, such as an unhandled exception.
+> ERROR: An error occurred that should be investigated, such as an unhandled exception.
 
-6. CRITICAL: A very serious error occurred, indicating that the program itself may be unable to continue running.
+> CRITICAL: A very serious error occurred, indicating that the program itself may be unable to continue running.
 
 By default, the logging module sets the level to WARNING, which means that only events with a severity level of WARNING or higher will be logged. However, developers can easily adjust the level to suit their needs by modifying the logger's level attribute or using the basicConfig() function.
 
