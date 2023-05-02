@@ -38,4 +38,4 @@ Exception handling in Python involves the use of three keywords: try, except, an
 
 In addition to handling built-in exceptions, developers can also create their own custom exceptions by defining a new class that inherits from the built-in Exception class.
 
-Proper use of exception handling can help make Python code more robust and reliable. By anticipating and handling potential errors in a controlled way, developers can prevent unexpected behavior and make their code more predictable.
+- Proper use of exception handling can help make Python code more robust and reliable. By anticipating and handling potential errors in a controlled way, developers can prevent unexpected behavior and make their code more predictable.
