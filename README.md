@@ -1,6 +1,6 @@
 # Logging_And_Exception-Handling-Python
 
-# Logging in Python
+# Logging in Python Language
 
 The logging module in Python provides a powerful and flexible way to record events and messages from a running application. It allows developers to fine-tune the amount of detail recorded by the logging system by defining different levels of severity or importance.
 
